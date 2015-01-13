@@ -1,0 +1,305 @@
+sprite_sheet.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+transparent
+  rotate: false
+  xy: 800, 0
+  size: 759, 471
+  orig: 800, 0
+  offset: 0, 0
+  index: -1
+left_button
+  rotate: false
+  xy: 522, 1543
+  size: 100, 98
+  orig: 522, 1543
+  offset: 0, 0
+  index: -1
+right_button
+  rotate: false
+  xy: 622, 1543
+  size: 100, 98
+  orig: 622, 1543
+  offset: 0, 0
+  index: -1
+jump_button
+  rotate: false
+  xy: 722, 1543
+  size: 98, 100
+  orig: 722, 1543
+  offset: 0, 0
+  index: -1
+button_pause
+  rotate: false
+  xy: 256, 1415
+  size: 120, 120
+  orig: 256, 1415
+  offset: 0, 0
+  index: -1
+egg
+  rotate: false
+  xy: 1640, 800
+  size: 300, 233
+  orig: 1640, 800
+  offset: 0, 0
+  index: -1
+level_button1
+  rotate: false
+  xy: 1233, 1543
+  size: 64, 64
+  orig: 1233, 1543
+  offset: 0, 0
+  index: -1
+level_button2
+  rotate: false
+  xy: 1297, 1543
+  size: 64, 64
+  orig: 1297, 1543
+  offset: 0, 0
+  index: -1
+level_locked
+  rotate: false
+  xy: 1527, 1543
+  size: 37, 43
+  orig: 1533, 1546
+  offset: 6, 3
+  index: -1
+level_star
+  rotate: false
+  xy: 1403, 1543
+  size: 60, 58
+  orig: 1403, 1544
+  offset: 0, 1
+  index: -1
+tooltip
+  rotate: false
+  xy: 1683, 1227
+  size: 200, 114
+  orig: 1683, 1229
+  offset: 0, 2
+  index: -1
+button_continue
+  rotate: false
+  xy: 376, 1415
+  size: 174, 74
+  orig: 378, 1417
+  offset: 2, 2
+  index: -1
+button_continue2
+  rotate: false
+  xy: 550, 1415
+  size: 174, 74
+  orig: 552, 1417
+  offset: 2, 2
+  index: -1
+button_credits
+  rotate: false
+  xy: 724, 1415
+  size: 174, 74
+  orig: 726, 1417
+  offset: 2, 2
+  index: -1
+button_credits2
+  rotate: false
+  xy: 898, 1415
+  size: 174, 74
+  orig: 900, 1417
+  offset: 2, 2
+  index: -1
+button_exit
+  rotate: false
+  xy: 1072, 1415
+  size: 174, 74
+  orig: 1074, 1417
+  offset: 2, 2
+  index: -1
+button_exit2
+  rotate: false
+  xy: 1246, 1415
+  size: 174, 74
+  orig: 1248, 1417
+  offset: 2, 2
+  index: -1
+button_highscore
+  rotate: false
+  xy: 1420, 1415
+  size: 174, 74
+  orig: 1422, 1417
+  offset: 2, 2
+  index: -1
+button_highscore2
+  rotate: false
+  xy: 1594, 1415
+  size: 174, 74
+  orig: 1596, 1417
+  offset: 2, 2
+  index: -1
+button_mainmenu
+  rotate: false
+  xy: 1768, 1415
+  size: 174, 74
+  orig: 1770, 1417
+  offset: 2, 2
+  index: -1
+button_mainmenu2
+  rotate: false
+  xy: 0, 1543
+  size: 174, 74
+  orig: 2, 1545
+  offset: 2, 2
+  index: -1
+startgame_button
+  rotate: false
+  xy: 174, 1543
+  size: 174, 74
+  orig: 176, 1545
+  offset: 2, 2
+  index: -1
+startgame_button2
+  rotate: false
+  xy: 348, 1543
+  size: 174, 74
+  orig: 350, 1545
+  offset: 2, 2
+  index: -1
+button_on
+  rotate: false
+  xy: 1883, 1227
+  size: 128, 128
+  orig: 1883, 1227
+  offset: 0, 0
+  index: -1
+button_off
+  rotate: false
+  xy: 0, 1415
+  size: 128, 128
+  orig: 0, 1415
+  offset: 0, 0
+  index: -1
+table_menu
+  rotate: false
+  xy: 641, 801
+  size: 499, 426
+  orig: 642, 801
+  offset: 2, 1
+  index: -1
+key
+  rotate: false
+  xy: 1463, 1543
+  size: 64, 31
+  orig: 1463, 1543
+  offset: 0, 0
+  index: -1
+snake_gem
+  rotate: false
+  xy: 1162, 1543
+  size: 70, 68
+  orig: 1162, 1543
+  offset: 0, 0
+  index: -1
+spring1
+  rotate: false
+  xy: 820, 1543
+  size: 60, 132
+  orig: 826, 1543
+  offset: 6, 0
+  index: -1
+spring2
+  rotate: false
+  xy: 880, 1543
+  size: 60, 132
+  orig: 886, 1568
+  offset: 6, 25
+  index: -1
+spring3
+  rotate: false
+  xy: 940, 1543
+  size: 60, 132
+  orig: 946, 1603
+  offset: 6, 60
+  index: -1
+snake
+  rotate: false
+  xy: 1299, 1227
+  size: 384, 60
+  orig: 1305, 1232
+  offset: 6, 5
+  index: -1
+dragon
+  rotate: false
+  xy: 659, 1227
+  size: 384, 96
+  orig: 665, 1227
+  offset: 6, 0
+  index: -1
+pumma_sheet
+  rotate: false
+  xy: 1043, 1227
+  size: 256, 128
+  orig: 1045, 1234
+  offset: 2, 7
+  index: -1
+transparent_credit
+  rotate: false
+  xy: 0, 0
+  size: 800, 800
+  orig: 5, 0
+  offset: 5, 0
+  index: -1
+world2
+  rotate: false
+  xy: 359, 1227
+  size: 300, 169
+  orig: 359, 1227
+  offset: 0, 0
+  index: -1
+timer
+  rotate: false
+  xy: 128, 1415
+  size: 128, 121
+  orig: 128, 1418
+  offset: 0, 3
+  index: -1
+Door
+  rotate: false
+  xy: 1361, 1543
+  size: 42, 84
+  orig: 1361, 1543
+  offset: 0, 0
+  index: -1
+logo
+  rotate: false
+  xy: 0, 1227
+  size: 358, 187
+  orig: 2, 1233
+  offset: 2, 6
+  index: -1
+health_bar
+  rotate: false
+  xy: 1000, 1543
+  size: 160, 40
+  orig: 1000, 1543
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 0, 800
+  size: 640, 360
+  orig: 0, 800
+  offset: 0, 0
+  index: -1
+congrats_screen
+  rotate: false
+  xy: 1140, 800
+  size: 500, 400
+  orig: 1143, 800
+  offset: 3, 0
+  index: -1
+nothing
+  rotate: false
+  xy: 2028, 2028
+  size: 20, 20
+  orig: 2028, 2028
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="90" height="20" tilewidth="16" tileheight="16">
+ <tileset firstgid="1" name="worldmaptileset1" tilewidth="16" tileheight="16">
+  <image source="worldmaptileset1.png" trans="550000" width="384" height="384"/>
+  <tile id="192">
+   <properties>
+    <property name="" value=""/>
+   </properties>
+  </tile>
+  <tile id="193">
+   <properties>
+    <property name="" value=""/>
+   </properties>
+  </tile>
+  <tile id="216">
+   <properties>
+    <property name="type" value="stone"/>
+   </properties>
+  </tile>
+  <tile id="290">
+   <properties>
+    <property name="" value=""/>
+   </properties>
+  </tile>
+  <tile id="291">
+   <properties>
+    <property name="" value=""/>
+   </properties>
+  </tile>
+  <tile id="292">
+   <properties>
+    <property name="type" value="breakable1"/>
+   </properties>
+  </tile>
+  <tile id="293">
+   <properties>
+    <property name="type" value="breakable1"/>
+   </properties>
+  </tile>
+  <tile id="314">
+   <properties>
+    <property name="" value=""/>
+   </properties>
+  </tile>
+  <tile id="315">
+   <properties>
+    <property name="" value=""/>
+   </properties>
+  </tile>
+  <tile id="316">
+   <properties>
+    <property name="type" value="breakable1"/>
+   </properties>
+  </tile>
+  <tile id="317">
+   <properties>
+    <property name="type" value="breakable1"/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="background" width="90" height="20">
+  <data encoding="base64" compression="zlib">
+   eJztl+kNgzAMhcMovbtDzxXovULYf4D6j9XIfW4QhBBRf9ITMqmd8OIg6pxhGIZhTIe6cu5SfV+NtLCvntSM6POOtCcdSEfSibQmbUjb/MtJDvsrr7m5km6kO+lBerqP3+f8y5ksqJ/Z71fmtSxIS9LKfc5UGMsx7bzF6qQ8q2guVLukfkZ7HsZyTFtfrE7KZ0Nzodol9TPa8zCWY9r6YnVSPhuaC9UuqZ8ldYfvA87pkhsyo7x5pcdMyf0svdDkW/6uT462D6l9HqOf2Q8PvPGBGhEjj3wk51cuC5Gjn3P5zP8bNC9Qr0pPkW8s7b4Uoq3Pfd7PQ783UO9pfYi8lT7xfSkeR2Oh/hHNsz4yDMMYkjf16HnF
+  </data>
+ </layer>
+ <layer name="foreground" width="90" height="20">
+  <data encoding="base64" compression="zlib">
+   eJztllkOwiAQhu2ju1eo+xXcvYK7d3C//4v/oyGAPwVaTedLvtiZyGRCKVCpCIIgCHlQhw3YhC3Yhh3L/6/wBi8fz3f4gE/4itms4I36vtn3LgiCHd1eaotN3xtTJ9S36rr/M1RhzbOG8J0UdotuogRM4LToJnIgTbCeEvNvbDZwG6CO6z4cM/7FO1VZ1nPRhFrPgp0s61nuKO5kWc//dkfx2fdjnym6syTEWWfqn80xsZrrwwEcwpFj7DOWiceaee4FqGvqn80xsZqbwwVcwpVj7DOWideaeZ4FqGvqn80xsZrbwwM8wpNj7DOWic+aed4FqGvqn80xsZp7A0/qT4E=
+  </data>
+ </layer>
+ <layer name="object" width="90" height="20">
+  <data encoding="base64" compression="zlib">
+   eJztwQEBAAAAgiD/r25IQAEAAAAAAAAvBhwgAAE=
+  </data>
+ </layer>
+</map>

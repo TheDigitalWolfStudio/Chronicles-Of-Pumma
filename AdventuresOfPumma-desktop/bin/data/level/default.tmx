@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="150" height="20" tilewidth="16" tileheight="16">
+ <tileset firstgid="1" name="worldmaptileset1" tilewidth="16" tileheight="16">
+  <image source="worldmaptileset1.png" trans="550000" width="384" height="384"/>
+ </tileset>
+ <layer name="background" width="150" height="20">
+  <data encoding="base64" compression="zlib">
+   eJztwTEBAAAAwqD1T20MH6AAAAAAAAAAAAAAAOBvLuAAAQ==
+  </data>
+ </layer>
+ <layer name="foeground" width="150" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzt0csNwjAQhOEUkJAUkQBFkEcRCVCOS2ckchrEZQ/2wf8nzWFWK1laNw0AAAAAAAAAAAAAAAAAIKJVOuWi9BX2IdNd/r3jtJdK3yTSfTYqk3JVbhX2+8/PfuV6x2kvlb5JpPvsoczKoqwV9s0/9pTrHae9VPomke6zXTmUp/KqsL/9Y0+53nHaS6VvEuk++wB+DWtJ
+  </data>
+ </layer>
+ <layer name="object" width="150" height="20">
+  <data encoding="base64" compression="zlib">
+   eJztwTEBAAAAwqD1T20MH6AAAAAAAAAAAAAAAOBvLuAAAQ==
+  </data>
+ </layer>
+</map>

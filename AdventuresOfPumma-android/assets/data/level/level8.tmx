@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="200" height="20" tilewidth="16" tileheight="16">
+ <tileset firstgid="1" name="worldmaptileset1" tilewidth="16" tileheight="16">
+  <image source="worldmaptileset1.png" width="384" height="384"/>
+ </tileset>
+ <layer name="background" width="200" height="20">
+  <data encoding="base64" compression="zlib">
+   eJztmLlKBTEYRmeewKVx7V06l96lc2m0UVBwF7RRUHD3xdx9BXc7C5/BpfL0N2BuzCST8TtwGOaSPwm5XyaQLBNCCCGEEELYMJdn2Xzur10RLDDuIi7hMq7gKq7heqQ5ifT5wu9f2uyQr12LjNm2sxmzXvYYdx8P8BCP8BhP8FT7o3KE+h420Vdz4PzEGFNUi1Dfwx766g2cVR9jfuBnwDrxPxkhp6OB94ePMRuob3Tow7VOiJToIuPdDjl3rRMiJYbI+LBDzl3rhEiJGTI+65Bz1zohUmKLjG875Ny1zjd/ueMu4n7cFy2sbSu2YTt2YGcJ1lukhemOe4r36bz2aVMrRJUw3XHb7o8Yd/JChMR0x73B+2Ze+7SpFaJs9GE/DuBg5LkIUTbGcBwncDLyXFLk3XAGnvHbOV7gJV7hNd7grYf2ohjeDGut88M/d6zzPT7gIz7hM77gq+E/qLe9CIfODyH88AO1+kwB
+  </data>
+ </layer>
+ <layer name="foreground" width="200" height="20">
+  <data encoding="base64" compression="zlib">
+   eJztmVdSwzAQhk15YSCBV8pL6Fcg1CvQuQK9nCB3oFyCcgnKG/WVcgc4Ab8HazCata1iS07Yb+YfS0osrRWtduUEAcMwDMMwDMOUg1rbj4Ytrky52Y20B+1DB37NaSpqluvb9n6mGB6hJ+jZtyFNSLimp6B6dLUh3k89R1/phnqgClSFeqE+i+81G9vQTvB332fcYOsTSXAsYWwR+53rPa8W7e/1nPf5OFNtvypqDEYfKhaFZ5BDn0aVjKJiRhJpscR1TtSKOdhDwGeMPHHtH67HYxhd4vmOiUz6qie0MUwW95FEbIyXRZx88WYd00ro5l6uctBj7JUn0Cl0xvtmyyC/x7a5/ueYeo7nvoAuoauc5yCMNVTMaTUWMW9L0DXKNxp103EYd1xjvm+gW+jOw9ynvcs7Svlc9z7V/682MQdb0CfKX4rPIO55RflNo66KsEXcR+UWPtDJb8LHbYc6oM7iTcuNVxj+Br1DHx78o2z/0Yk9WqxJVR8pAmGDuArbRlAehcagcWjCk32yDZORrbJC2/uhAWgQGsrol/J/07qKD6OtUU3oQ44fNjaZnI/K9l5Vd293ifCPaZRnoFloDpoP3MQTeQzZhoXgxx9sofzftE75sAzaGkn9yPFDxw6VsbMom3+UOccXti2jvAKtQmvQeuAmnshjyDZsBPn4B+X/pnXKh2XQ1rAdh6qrjJ2FT/+g4l8z+IfK+skjH8mKF9Tv35XD3FH+b1qnfFgGbQ3bcai6ythZhOfmpPM2dcaOS7Snnd/TzvFU/BP5lbyGejyrErNNZf2oxv2sfCEtXlC/v8m7FLn+DSnT1QE=
+  </data>
+ </layer>
+ <layer name="object" width="200" height="20">
+  <data encoding="base64" compression="zlib">
+   eJztwQEBAAAAgJD+r+4ICgAAAAAAAAAAAAAAAAAAAGo+gAAB
+  </data>
+ </layer>
+</map>
